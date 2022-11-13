@@ -7,7 +7,8 @@ I'm Ahmed, a @Google Certified Professional Data Analyst from 🇪🇬 Egypt
 * My transitional journey started in July 2022
 * Appreciate learning and always eager to learn more.
 
-#### 👀 My portfolio
+#### 👀 My portfolio overview
+* [Portfolio Guide](https://github.com/am-abdelfatah/Portfolio/)
 * In the formatting phase and soon will be published, till then you can track my Certifications and Projects on my [LinkedIn](https://www.linkedin.com/in/ahmed-m-abdlefatah/)
 
 
