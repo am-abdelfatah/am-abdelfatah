@@ -3,7 +3,7 @@
 I'm Ahmed, a @Google [Certified Professional Data Analyst]() from 🇪🇬 Egypt
 
 #### ✨ About Me
-* **Mechanical Engineer** turned Data Analyst|Business Analyst
+* **Mechanical Engineer** turned Data Analyst | Business Analyst
 * My transitional journey started in July 2022
 * Appreciate learning and always eager to learn more.
 
