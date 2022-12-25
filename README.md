@@ -1,6 +1,6 @@
 ## Hello there! 🙋🏽‍♂️
 
-I'm Ahmed, a @Google [Certified Professional Data Analyst]() from 🇪🇬 Egypt
+I'm Ahmed, a @Google [Certified Professional Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/J6GEGAJH8B84) from 🇪🇬 Egypt
 
 #### ✨ About Me
 * **Mechanical Engineer** turned Data Analyst | Business Analyst
