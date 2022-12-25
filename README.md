@@ -14,7 +14,7 @@ I'm Ahmed, a @Google [Certified Professional Data Analyst](https://www.coursera.
 #### 🌱 I’m currently 
 * Brushing up on data cleaning and wrangling skills using Python
 * Studying to complete [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
-* A member  of __[McKinsey & Company Forward Program November Cohort](https://www.mckinsey.com/forward/overview) (6-Months Program)
+* A member  of [McKinsey & Company Forward Program November Cohort](https://www.mckinsey.com/forward/overview) (6-Months Program)
 
 #### 💡 Core Competencies
 * Proficiency with Spreadsheets, SQL, R, Power BI and Tableau. 
